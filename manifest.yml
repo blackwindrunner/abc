@@ -2,7 +2,7 @@ applications:
 - disk_quota: 1024M
   host: ghost-first-bluemix-app
   name: Ghost first Bluemix app
-  path: Ghost first Bluemix app.war
+  path: .
   domain: mybluemix.net
   instances: 1
   memory: 512M
