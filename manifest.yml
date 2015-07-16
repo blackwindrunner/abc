@@ -3,6 +3,6 @@ applications:
   host: ghost-first-bluemix-app
   name: Ghost first Bluemix app
   path: Ghost first Bluemix app.war
-  domain: local.mybluemix.net
+  domain: mybluemix.net
   instances: 1
   memory: 512M
